@@ -1,6 +1,6 @@
-# Nathalie-Azuaje
-# soy una chica fitness 
-# estatura baja 1.51 
+## Nathalie-Azuaje
+## soy una chica fitness 
+## estatura baja 1.51 
 
 
 # La Alineación Económica de Dussel y el “Rebusque” en Caracas
